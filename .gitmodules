@@ -1,7 +1,3 @@
-[submodule "adeel.github.io"]
-	path = adeel.github.io
-	url = https://github.com/adeel14553/adeel.github.io.git
-	branch = main
 [submodule "public"]
 	path = public
 	url = https://github.com/adeel14553/adeel.github.io.git
