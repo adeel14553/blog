@@ -1,4 +1,4 @@
-baseURL = "https://adeel.github.io/"
+baseURL = "https://adeel14553.github.io/adeel.github.io/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
